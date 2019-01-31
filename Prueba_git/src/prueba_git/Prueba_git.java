@@ -17,7 +17,7 @@ public class Prueba_git {
     public static void main(String[] args) {
         System.out.println("Hola mundo");
         if(true){
-            System.out.println("Mierda");
+            System.out.println("Merda");
         }else{
             System.out.println("Caca");
         }
