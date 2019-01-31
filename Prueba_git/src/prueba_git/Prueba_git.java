@@ -16,6 +16,11 @@ public class Prueba_git {
      */
     public static void main(String[] args) {
         System.out.println("Hola mundo");
+        if(true){
+            System.out.println("Mierda");
+        }else{
+            System.out.println("Caca");
+        }
     }
     
 }
